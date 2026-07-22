@@ -23,43 +23,28 @@
 
 ### 🛠️ Habilidades & Herramientas
 
----
-
----
-
-### 🛠️ Habilidades & Herramientas
-
 #### **Bases de Datos & Análisis**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-E8AEB7?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-B8C0EC?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F3D5B5?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-D8E2DC?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/SQL_Server-D9534F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4A90E2?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-E6A100?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-2E7D32?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 #### **Conocimientos Aplicados (CV)**
 <p align="left">
-  <img src="https://img.shields.io/badge/Elaboración_de_Tableros-E8C5E5?style=for-the-badge&labelColor=2B2D42&color=E8C5E5" />
-  <img src="https://img.shields.io/badge/Control_y_Medición_de_Procesos-FDE2E4?style=for-the-badge&labelColor=2B2D42&color=FDE2E4" />
-  <img src="https://img.shields.io/badge/Documentación_y_Redacción-CDDAFD?style=for-the-badge&labelColor=2B2D42&color=CDDAFD" />
-  <img src="https://img.shields.io/badge/Respaldo_de_Información-DFE7FD?style=for-the-badge&labelColor=2B2D42&color=DFE7FD" />
-  <img src="https://img.shields.io/badge/Soporte_a_Usuarios-E2ECE9?style=for-the-badge&labelColor=2B2D42&color=E2ECE9" />
+  <img src="https://img.shields.io/badge/Elaboración_de_Tableros-00838F?style=for-the-badge&labelColor=1A2634&color=00838F" />
+  <img src="https://img.shields.io/badge/Control_y_Medición_de_Procesos-6A1B9A?style=for-the-badge&labelColor=1A2634&color=6A1B9A" />
+  <img src="https://img.shields.io/badge/Documentación_y_Redacción-2E7D32?style=for-the-badge&labelColor=1A2634&color=2E7D32" />
+  <img src="https://img.shields.io/badge/Respaldo_de_Información-D84315?style=for-the-badge&labelColor=1A2634&color=D84315" />
+  <img src="https://img.shields.io/badge/Soporte_a_Usuarios-283593?style=for-the-badge&labelColor=1A2634&color=283593" />
 </p>
 
-* **Bases de datos:** Manejo básico de SQL Server, MySQL y respaldos de seguridad[cite: 1].
-* **Reportes:** Elaboración de tableros de control e indicadores para la toma de decisiones[cite: 1].
-* **Procesos:** Verificación de cantidades, seguimiento de procesos y soporte técnico[cite: 1].
-* **Documentación:** Redacción de informes técnicos y documentación escolar/administrativa[cite: 1].
+* **Bases de datos:** Manejo básico de SQL Server, MySQL y respaldos de seguridad
+* **Reportes:** Elaboración de tableros de control e indicadores para la toma de decisiones
+* **Procesos:** Verificación de cantidades, seguimiento de procesos y soporte técnico
+* **Documentación:** Redacción de informes técnicos y documentación escolar/administrativa
 
----
-
----
-
-### 📊 Dashboard de Analítica de Código (Metrics)
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/krn0404?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=America%2FMexico_City" alt="Metrics Dashboard" width="100%" />
-</p>
 ---
 
 ### 📌 Proyectos Destacados
@@ -68,7 +53,7 @@
 * **Descripción:** Estructuración y depuración de bases de datos para su análisis, elaborando reportes e indicadores mediante Power BI orientados a la toma de decisiones
 * **Herramientas:** Power BI, Excel
 
-#### 🗄️ Base de Datos Relacional 
+#### 🗄️ Base de Datos Relacional — Centro de Lenguas Extranjeras
 * **Descripción:** Diseño e implementación de una base de datos relacional para centralizar información escolar y administrativa, aplicando restricciones para evitar duplicidad e integrar la información
 * **Herramientas:** SQL Server / MySQL
 
@@ -77,7 +62,15 @@
 
 ---
 
+### 📈 Mi Actividad en Código
 
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krn0404&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" width="100%" />
+  </a>
+</p>
+
+---
 
 ### 🐍 Contribuciones Animadas
 
@@ -86,7 +79,6 @@
 ---
 
 ### 📫 Contacto
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vorpicaaa@gmail.com)
 
