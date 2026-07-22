@@ -1,5 +1,12 @@
-<h1 align="center">¡Hola, soy Karen! 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Karen%20Garc%C3%ADa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">Ingeniera en Tecnologías de la Información | Data & BI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Analizando+datos...;Aprendiendo+Power+BI+%F0%9F%93%8A;Bases+de+datos+%7C+SQL+%7C+MySQL;Abierta+a+reubicarme+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
 📍 Tlaxcala, México &nbsp;|&nbsp; 🎓 Universidad Politécnica de Tlaxcala
@@ -41,7 +48,17 @@ Estructuración y depuración de bases de datos, elaboración de reportes e indi
 
 ---
 
+### 🐍 Actividad reciente (animada)
+
+<!-- inserta esto después de configurar la GitHub Action del snake, ver pasos abajo -->
+![snake gif](https://raw.githubusercontent.com/krn0404/krn0404/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📫 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vorpicaaa@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" />
+</p>
