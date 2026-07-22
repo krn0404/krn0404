@@ -5,7 +5,7 @@
 <h3 align="center">Ingeniera IT Junior | Data & BI Analyst Jr. 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=580&lines=Ingeniera+reci%C3%A9n+egresada+%F0%9F%8E%93;Estudio+autodidacta+y+crecimiento+continuo;Analizando+datos+y+creando+dashboards+%F0%9F%93%8A;Bases+de+datos+%7C+SQL+Server+%7C+MySQL;Abierta+a+reubicarme+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=620&lines=Ingeniera+IT+Reci%C3%A9n+Egresada+%F0%9F%8E%93;An%C3%A1lisis+de+Datos+y+Business+Intelligence;Modelado+Relacional+%7C+SQL+Server+%7C+MySQL;Elaboraci%C3%B3n+de+Dashboards+y+M%C3%A9tricas+%F0%9F%93%8A;Formaci%C3%B3n+Continua+y+Estudio+Autodidacta;Disponibilidad+para+Reubicaci%C3%B3n+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
