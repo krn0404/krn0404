@@ -25,20 +25,18 @@
 
 #### **Bases de Datos & Análisis**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black" height="35" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white" height="35" />
 </p>
 
 #### **Conocimientos Aplicados (CV)**
-<p align="left">
-  <img src="https://img.shields.io/badge/📊_Elaboración_de_Tableros-00C2FF?style=for-the-badge&labelColor=1a1a2e&color=00C2FF" />
-  <img src="https://img.shields.io/badge/📈_Control_y_Medición_de_Procesos-7B2CBF?style=for-the-badge&labelColor=1a1a2e&color=7B2CBF" />
-  <img src="https://img.shields.io/badge/📝_Documentación_y_Redacción-2EC4B6?style=for-the-badge&labelColor=1a1a2e&color=2EC4B6" />
-  <img src="https://img.shields.io/badge/💾_Respaldo_de_Información-FF9F1C?style=for-the-badge&labelColor=1a1a2e&color=FF9F1C" />
-  <img src="https://img.shields.io/badge/🛠️_Soporte_a_Usuarios-E71D36?style=for-the-badge&labelColor=1a1a2e&color=E71D36" />
-</p>
+* 📊 **Elaboración de Tableros:** *Dashboards interactivos e indicadores visuales[cite: 1].*
+* 📈 **Control y Medición:** *Seguimiento de procesos y análisis de métricas[cite: 1].*
+* 📝 **Redacción Técnica:** *Documentación de procesos y elaboración de reportes[cite: 1].*
+* 💾 **Seguridad de Datos:** *Mantenimiento y respaldos periódicos de bases de datos[cite: 1].*
+* 🛠️ **Soporte IT:** *Atención a usuarios e incidencias de equipo[cite: 1].*
 
 #### **Conocimientos Aplicados (CV)**
 `Elaboración de Tableros` • `Control y Medición de Procesos` • `Documentación y Redacción Técnica` • `Respaldo de Información` • `Soporte a Usuarios`
