@@ -60,19 +60,10 @@
 #### 💻 Auxiliar de Laboratorio de Redes CISCO (UPTx)
 * **Descripción:** Control de acceso, elaboración de reportes de incidencias y mantenimiento actualizado/respaldos mensuales de la base de datos del laboratorio
 
----
-
-### 📈 Mi Actividad en Código
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krn0404&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" width="100%" />
-  </a>
-</p>
 
 ---
 
-### 🐍 Contribuciones Animadas
+### 🐍 Contribuciones 
 
 ![Snake animation](https://raw.githubusercontent.com/krn0404/krn0404/output/github-contribution-grid-snake.svg)
 
