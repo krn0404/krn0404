@@ -25,15 +25,33 @@
 
 ---
 
+---
+
 ### 🛠️ Habilidades & Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,powerbi,express&theme=dark" />
+#### **Bases de Datos & Análisis**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-E8AEB7?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-B8C0EC?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F3D5B5?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-D8E2DC?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
 </p>
 
-<p align="center">
-  <code>📊 Tableros y KPIs</code> • <code>📈 Control de Procesos</code> • <code>📝 Documentación Técnica</code> • <code>💾 Respaldos</code> • <code>🛠️ Soporte IT</code>
+#### **Conocimientos Aplicados (CV)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Elaboración_de_Tableros-E8C5E5?style=for-the-badge&labelColor=2B2D42&color=E8C5E5" />
+  <img src="https://img.shields.io/badge/Control_y_Medición_de_Procesos-FDE2E4?style=for-the-badge&labelColor=2B2D42&color=FDE2E4" />
+  <img src="https://img.shields.io/badge/Documentación_y_Redacción-CDDAFD?style=for-the-badge&labelColor=2B2D42&color=CDDAFD" />
+  <img src="https://img.shields.io/badge/Respaldo_de_Información-DFE7FD?style=for-the-badge&labelColor=2B2D42&color=DFE7FD" />
+  <img src="https://img.shields.io/badge/Soporte_a_Usuarios-E2ECE9?style=for-the-badge&labelColor=2B2D42&color=E2ECE9" />
 </p>
+
+* **Bases de datos:** Manejo básico de SQL Server, MySQL y respaldos de seguridad[cite: 1].
+* **Reportes:** Elaboración de tableros de control e indicadores para la toma de decisiones[cite: 1].
+* **Procesos:** Verificación de cantidades, seguimiento de procesos y soporte técnico[cite: 1].
+* **Documentación:** Redacción de informes técnicos y documentación escolar/administrativa[cite: 1].
+
+---
 
 ---
 
