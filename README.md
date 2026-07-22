@@ -23,6 +23,8 @@
 
 ### 🛠️ Habilidades & Herramientas
 
+---
+
 ### 🛠️ Habilidades & Herramientas
 
 <p align="center">
@@ -33,9 +35,13 @@
   <code>📊 Tableros y KPIs</code> • <code>📈 Control de Procesos</code> • <code>📝 Documentación Técnica</code> • <code>💾 Respaldos</code> • <code>🛠️ Soporte IT</code>
 </p>
 
-#### **Conocimientos Aplicados (CV)**
-`Elaboración de Tableros` • `Control y Medición de Procesos` • `Documentación y Redacción Técnica` • `Respaldo de Información` • `Soporte a Usuarios`
+---
 
+### 📊 Dashboard de Analítica de Código (Metrics)
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/krn0404?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=America%2FMexico_City" alt="Metrics Dashboard" width="100%" />
+</p>
 ---
 
 ### 📌 Proyectos Destacados
