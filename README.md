@@ -15,9 +15,9 @@
 ---
 
 ### 🚀 Sobre mí
-- 🎓 **Perfil:** Ingeniera en Tecnologías de la Información (Recién egresada de UPTx) en busca de oportunidades Junior para desarrollo y crecimiento profesional[cite: 1].
-- 📊 **Enfoque:** Análisis de información, elaboración de reportes e indicadores, gestión de bases de datos y soporte técnico para apoyar la toma de decisiones[cite: 1].
-- 📚 **Estudio y Crecimiento:** En formación continua a través del curso *Fundamentos de Análisis de Datos* (Cisco) y aprendizaje autodidacta en bases de datos[cite: 1].
+- 🎓 **Perfil:** Ingeniera en Tecnologías de la Información (Recién egresada de UPTx) en busca de oportunidades Junior para desarrollo y crecimiento profesional
+- 📊 **Enfoque:** Análisis de información, elaboración de reportes e indicadores, gestión de bases de datos y soporte técnico para apoyar la toma de decisiones
+- 📚 **Estudio y Crecimiento:** En formación continua a través del curso *Fundamentos de Análisis de Datos* (Cisco) y aprendizaje autodidacta en bases de datos
 
 ---
 
@@ -37,27 +37,19 @@
 ### 📌 Proyectos Destacados
 
 #### 📊 [Análisis de Inteligencia de Negocios — Catálogo Mundial Netflix](https://github.com/krn0404/Netflix-DataAnalysis-BI)
-* **Descripción:** Estructuración y depuración de bases de datos para su análisis, elaborando reportes e indicadores mediante Power BI orientados a la toma de decisiones[cite: 1].
-* **Herramientas:** Power BI, Excel[cite: 1].
+* **Descripción:** Estructuración y depuración de bases de datos para su análisis, elaborando reportes e indicadores mediante Power BI orientados a la toma de decisiones
+* **Herramientas:** Power BI, Excel
 
-#### 🗄️ Base de Datos Relacional — Centro de Lenguas (DELIDIOMA)
-* **Descripción:** Diseño e implementación de una base de datos relacional para centralizar información escolar y administrativa, aplicando restricciones para evitar duplicidad e integrar la información[cite: 1].
-* **Herramientas:** SQL Server / MySQL[cite: 1].
+#### 🗄️ Base de Datos Relacional 
+* **Descripción:** Diseño e implementación de una base de datos relacional para centralizar información escolar y administrativa, aplicando restricciones para evitar duplicidad e integrar la información
+* **Herramientas:** SQL Server / MySQL
 
 #### 💻 Auxiliar de Laboratorio de Redes CISCO (UPTx)
-* **Descripción:** Control de acceso, elaboración de reportes de incidencias y mantenimiento actualizado/respaldos mensuales de la base de datos del laboratorio[cite: 1].
+* **Descripción:** Control de acceso, elaboración de reportes de incidencias y mantenimiento actualizado/respaldos mensuales de la base de datos del laboratorio
 
 ---
 
-### 📈 Mi Actividad y Crecimiento en Código
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krn0404&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" width="100%" />
-  </a>
-</p>
-
----
 
 ### 🐍 Contribuciones Animadas
 
