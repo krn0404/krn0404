@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Karen%20Leticia%20Garc%C3%ADa%20V%C3%A1squez&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Ingeniera en Tecnologías de la Información | Data & BI Analyst</h3>
+<h3 align="center">Ingeniera IT Junior | Data & BI Analyst Jr. 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Analizando+datos...;Modelado+de+datos+y+SQL;Dashboarding+con+Power+BI+%F0%9F%93%8A;Bases+de+datos+%7C+ETL;Abierta+a+reubicarme+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=580&lines=Ingeniera+reci%C3%A9n+egresada+%F0%9F%8E%93;Estudio+autodidacta+y+crecimiento+continuo;Analizando+datos+y+creando+dashboards+%F0%9F%93%8A;Bases+de+datos+%7C+SQL+Server+%7C+MySQL;Abierta+a+reubicarme+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -14,32 +14,14 @@
 
 ---
 
-### 🏆 Logros & Métricas de Actividad
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krn0404&theme=tokyonight&no-bg=true&column=6&margin-w=15" alt="Trofeos de GitHub" />
-</p>
-
----
-
-### 📈 Dashboard de Actividad en Código (Series de Tiempo)
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krn0404&theme=react-dark&hide_border=true&area=true" alt="Gráfico interactivo de actividad" width="100%" />
-  </a>
-</p>
-
----
-
 ### 🚀 Sobre mí
-- 📊 **Enfoque profesional:** Ingeniera IT especializada en análisis de datos, modelado relacional y Business Intelligence.
-- 🛠️ **Áreas de fuerza:** Estructuración y limpieza de datos (ETL), diseño de bases de datos relacionales y creación de KPI dashboards.
-- 🎓 **Formación:** Egresada de la Universidad Politécnica de Tlaxcala. En curso del programa *Fundamentos de Análisis de Datos* (Cisco Networking Academy).
+- 🎓 **Perfil:** Ingeniera en Tecnologías de la Información (Recién egresada de UPTx) en busca de oportunidades Junior para desarrollo y crecimiento profesional[cite: 1].
+- 📊 **Enfoque:** Análisis de información, elaboración de reportes e indicadores, gestión de bases de datos y soporte técnico para apoyar la toma de decisiones[cite: 1].
+- 📚 **Estudio y Crecimiento:** En formación continua a través del curso *Fundamentos de Análisis de Datos* (Cisco) y aprendizaje autodidacta en bases de datos[cite: 1].
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Habilidades & Herramientas
 
 #### **Bases de Datos & Análisis**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -47,24 +29,37 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-#### **Conceptos & Metodologías**
-`Modelado Relacional` • `Normalización de BD` • `Indicadores / KPIs` • `Documentación Técnica` • `Respaldos y Soporte`
+#### **Conocimientos Aplicados (CV)**
+`Elaboración de Tableros` • `Control y Medición de Procesos` • `Documentación y Redacción Técnica` • `Respaldo de Información` • `Soporte a Usuarios`
 
 ---
 
 ### 📌 Proyectos Destacados
 
-#### 📊 [Análisis BI — Catálogo Mundial Netflix](https://github.com/krn0404/Netflix-DataAnalysis-BI)
-* **Descripción:** Depuración, estructuración y modelado de datos para la generación de un dashboard interactivo en Power BI enfocado en KPIs del catálogo global.
-* **Tecnologías:** Power BI, DAX, Excel, SQL.
+#### 📊 [Análisis de Inteligencia de Negocios — Catálogo Mundial Netflix](https://github.com/krn0404/Netflix-DataAnalysis-BI)
+* **Descripción:** Estructuración y depuración de bases de datos para su análisis, elaborando reportes e indicadores mediante Power BI orientados a la toma de decisiones[cite: 1].
+* **Herramientas:** Power BI, Excel[cite: 1].
 
-#### 🗄️ Diseño de BD Relacional — Centro de Lenguas (DELIDIOMA)
-* **Descripción:** Proyecto de estadía donde diseñé e implementé una base de datos relacional centralizada para el control escolar/administrativo, garantizando la integridad de la información mediante restricciones y reglas de negocio.
-* **Tecnologías:** SQL Server / MySQL, Normalización de datos.
+#### 🗄️ Base de Datos Relacional — Centro de Lenguas (DELIDIOMA)
+* **Descripción:** Diseño e implementación de una base de datos relacional para centralizar información escolar y administrativa, aplicando restricciones para evitar duplicidad e integrar la información[cite: 1].
+* **Herramientas:** SQL Server / MySQL[cite: 1].
+
+#### 💻 Auxiliar de Laboratorio de Redes CISCO (UPTx)
+* **Descripción:** Control de acceso, elaboración de reportes de incidencias y mantenimiento actualizado/respaldos mensuales de la base de datos del laboratorio[cite: 1].
 
 ---
 
-### 🐍 Animación de Contribuciones
+### 📈 Mi Actividad y Crecimiento en Código
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krn0404&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" width="100%" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribuciones Animadas
 
 ![Snake animation](https://raw.githubusercontent.com/krn0404/krn0404/output/github-contribution-grid-snake.svg)
 
@@ -72,7 +67,7 @@
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vorpicaaa@gmail.com)
 
 <p align="center">
