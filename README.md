@@ -23,20 +23,15 @@
 
 ### 🛠️ Habilidades & Herramientas
 
-#### **Bases de Datos & Análisis**
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white" height="35" />
+### 🛠️ Habilidades & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,powerbi,express&theme=dark" />
 </p>
 
-#### **Conocimientos Aplicados (CV)**
-* 📊 **Elaboración de Tableros:** *Dashboards interactivos e indicadores visuales[cite: 1].*
-* 📈 **Control y Medición:** *Seguimiento de procesos y análisis de métricas[cite: 1].*
-* 📝 **Redacción Técnica:** *Documentación de procesos y elaboración de reportes[cite: 1].*
-* 💾 **Seguridad de Datos:** *Mantenimiento y respaldos periódicos de bases de datos[cite: 1].*
-* 🛠️ **Soporte IT:** *Atención a usuarios e incidencias de equipo[cite: 1].*
+<p align="center">
+  <code>📊 Tableros y KPIs</code> • <code>📈 Control de Procesos</code> • <code>📝 Documentación Técnica</code> • <code>💾 Respaldos</code> • <code>🛠️ Soporte IT</code>
+</p>
 
 #### **Conocimientos Aplicados (CV)**
 `Elaboración de Tableros` • `Control y Medición de Procesos` • `Documentación y Redacción Técnica` • `Respaldo de Información` • `Soporte a Usuarios`
